@@ -1,0 +1,110 @@
+
+.round-banner {
+    border-radius: 50%; 
+    display: block;
+    margin: 0 auto;
+    size: 50%
+}
+
+ h1 {
+  text-align: center;
+  font-family: arial;
+  font-weight: normal;
+
+}
+h2 {
+    text-align: center;
+    font-family: arial;
+      font-weight: normal;
+}
+
+h3 {
+    text-align: center;
+     font-family: arial;
+       font-weight: normal;
+}
+.block-lankar {
+    text-align: center;
+     font-family: arial;
+       font-weight: normal;
+color: #a812ae;
+text-decoration: none;
+}
+.lankarblock  {
+    font-size: x-large;
+        text-align: center;
+        padding-bottom: 20px;
+ }
+.fa-linkedin-square { 
+        font-style: 18px;
+        font-size: xx-large;
+        padding-left: 10px;
+        padding-right: 10px
+ }
+ .fa-twitter-square { 
+        font-style: 18px;
+        font-size: xx-large;
+        padding-left: 10px;
+        padding-right: 10px
+         }
+
+h4 {
+    text-align: center;
+     font-family: arial;
+       font-weight: normal;
+}
+h5 {
+    text-align: center;
+    font-family: arial
+}
+
+p {
+  font-size: 14px;
+    text-align: center;
+    font-family: arial;
+     margin: auto;
+    padding-bottom: 20px;
+     max-width: 750px
+}
+
+.puff1 {
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    padding: 20px;
+
+}
+.puff2 {
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    padding: 20px; 
+}
+
+.puff3 {
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    padding: 20px;
+    
+}
+.container { 
+min-height: 150px;
+background-color: #A9A9A9
+}
+.sidfottext { 
+color: #ffffff
+padding-top: 20px: 
+}
+
+@media only screen and (min-width: 750px) {
+   .puff1 {
+     width: 750px; 
+     }  
+     .puff2 {
+      width: 750px;
+       } 
+      .puff3 {
+     width: 750px; 
+     }  
+   }

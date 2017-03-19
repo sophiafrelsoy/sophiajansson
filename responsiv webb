@@ -1,0 +1,19 @@
+responsiv webb
+Använd mediaqueries för att anpassa för större skärmar:
+
+mobil:
+
+@media only screen and (min-width: 760px) {
+   .img width {
+     width: 750%;
+   }
+}
+
+desktop:
+
+media only screen and (max-width: 1280px) {
+   .description-block {
+     width: 50%;
+      font-size: 16px;
+   }
+}
